@@ -1,2 +1,2 @@
 # SweetAlert2
-HTML Files
+https://rahulbhut21.github.io/SweetAlert2/
